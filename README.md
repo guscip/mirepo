@@ -7,3 +7,6 @@
 * git init 
 * git estatus
 pruebas
+
+
+### YA LO VEO 
